@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/find-new-words/static/css/main.fd7f1ac0.chunk.css",
+    "main.js": "/find-new-words/static/js/main.9e1fd1b1.chunk.js",
+    "main.js.map": "/find-new-words/static/js/main.9e1fd1b1.chunk.js.map",
+    "runtime-main.js": "/find-new-words/static/js/runtime-main.dffdbbfc.js",
+    "runtime-main.js.map": "/find-new-words/static/js/runtime-main.dffdbbfc.js.map",
+    "static/js/2.2a579f73.chunk.js": "/find-new-words/static/js/2.2a579f73.chunk.js",
+    "static/js/2.2a579f73.chunk.js.map": "/find-new-words/static/js/2.2a579f73.chunk.js.map",
+    "static/js/3.7b0c6b76.chunk.js": "/find-new-words/static/js/3.7b0c6b76.chunk.js",
+    "static/js/3.7b0c6b76.chunk.js.map": "/find-new-words/static/js/3.7b0c6b76.chunk.js.map",
+    "index.html": "/find-new-words/index.html",
+    "static/css/main.fd7f1ac0.chunk.css.map": "/find-new-words/static/css/main.fd7f1ac0.chunk.css.map",
+    "static/js/2.2a579f73.chunk.js.LICENSE.txt": "/find-new-words/static/js/2.2a579f73.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dffdbbfc.js",
+    "static/js/2.2a579f73.chunk.js",
+    "static/css/main.fd7f1ac0.chunk.css",
+    "static/js/main.9e1fd1b1.chunk.js"
+  ]
+}
